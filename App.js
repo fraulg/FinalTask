@@ -4,7 +4,7 @@ import { StyleSheet, Text, View } from 'react-native';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>This is hi im meng fai  a test</Text>
+      <Text>Lets get hacking and cracking</Text>
       <StatusBar style="auto" />
     </View>
   );
